@@ -1,6 +1,4 @@
 /*
-* Author:
-* Description:
 * RSA Decryption using OpenSSL library and Python encode/decode
 * 
 * to complile gcc Assignment1q2.c -o Assignment1q2 -lssl -lcrypto
